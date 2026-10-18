@@ -38,7 +38,7 @@ public class Parcheggio{
         }
     }
 
-    public double esce(Car unaAutomobile,double ore){
+    public double esce(Car unaAutomobile, double ore){
             double costoTot = ore * costoh;
             this.PostiDisponibili ++;
             return costoTot;
