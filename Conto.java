@@ -22,6 +22,10 @@ public class Conto{
     public double getSaldo(){
         return saldo;
     }
+
+    public String getIntestatario(){
+        return intestatario;
+    }
     
     public String effettuaPagamento(Pagamento pagamento) throws SaldoInsufficienteException{
             if(pagamento.getImporto() <= 0){
