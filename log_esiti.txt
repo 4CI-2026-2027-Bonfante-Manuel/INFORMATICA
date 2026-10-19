@@ -1,0 +1,5 @@
+PAGAMENTO RIUSCITO: Marco Bianchi 35.5
+PAGAMENTO FALLITO: Saldo insufficiente! Saldo disponibile: 64.5 € - Richiesti: 120.0 €
+PAGAMENTO RIUSCITO: Luca Verdi 25.0
+PAGAMENTO FALLITO: Saldo insufficiente! Saldo disponibile: 39.5 € - Richiesti: 60.0 €
+PAGAMENTO RIUSCITO: Andrea Russo 3.5
